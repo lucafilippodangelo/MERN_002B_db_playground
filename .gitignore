@@ -1,2 +1,5 @@
 
 refresher/node_modules/.bin/acorn
+*.ps1
+refresher/node_modules/.bin/ansi-html
+*.cmd

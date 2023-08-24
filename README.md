@@ -2,7 +2,7 @@
 
 NOTES. In sequence:
 - get into atlas -> https://cloud.mongodb.com/v2#/org/64c6a77b0f540265d200e150/projects
-- then on the project may need to run "npm install react-scripts --save" to update "node_modules". Sometimes random script and modules errors gets fired
+- then on the project may need to run "npm install" to re-generate "node_modules". Sometimes random script and modules errors gets fired
 - need to run command "npm install --save mongodb". Then will be able to use the mongo driver
 - work on "app.js" and "mongo.js"
 - run -> "npm start"
