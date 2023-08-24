@@ -14,7 +14,6 @@ NOTES basic POST:
 - - - expected response -> "{"name":"ld","price":"100","_id":"64e62d0fd9db3e09c195fc36"}"
 
 
-
-
-(node:24620) [MONGODB DRIVER] Warning: Warning: no saslprep library specified. Passwords will not be sanitized
-(Use `node --trace-warnings ...` to show where the warning was created)
+NOTES "mongoose". Library that builds up on mongo drivers.
+- installation -> "npm install --save mongoose"
+- "mongoose" requires as first step to create a scheme. See models->product.js
