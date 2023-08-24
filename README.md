@@ -17,3 +17,4 @@ NOTES basic POST:
 NOTES "mongoose". Library that builds up on mongo drivers.
 - installation -> "npm install --save mongoose"
 - "mongoose" requires as first step to create a scheme. See models->product.js
+- NOTE: not possible to work with ObjectID directly, need to convert first to string
